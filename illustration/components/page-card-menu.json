@@ -1,0 +1,100 @@
+{
+  "ogds": {
+    "page-card": {
+      "heading": {
+        "font-family": {
+          "value": "{ogds.heading.font-family}",
+          "type": "fontFamilies"
+        },
+        "font-weight": {
+          "value": "{ogds.heading.font-weight}",
+          "type": "fontWeights"
+        },
+        "line-height": {
+          "value": "{ogds.heading-3.line-height}",
+          "type": "lineHeights"
+        },
+        "font-size": {
+          "value": "{ogds.typography.font-size.xl}",
+          "type": "fontSizes"
+        }
+      },
+      "column-gap": {
+        "value": "{ogds.space.column.snail}",
+        "type": "spacing"
+      },
+      "border-width": {
+        "value": "{ogds.form-control.invalid.border-width}",
+        "type": "borderWidth"
+      },
+      "padding-block-end": {
+        "value": "{ogds.space.block.snail}",
+        "type": "spacing"
+      },
+      "padding-block-start": {
+        "value": "{ogds.space.block.snail}",
+        "type": "spacing"
+      },
+      "padding-inline-end": {
+        "value": "{ogds.space.inline.snail}",
+        "type": "spacing"
+      },
+      "padding-inline-start": {
+        "value": "{ogds.space.inline.snail}",
+        "type": "spacing"
+      },
+      "icon": {
+        "padding-block-end": {
+          "value": "{ogds.space.block.snail}",
+          "type": "spacing"
+        },
+        "padding-block-start": {
+          "value": "{ogds.space.block.snail}",
+          "type": "spacing"
+        },
+        "padding-inline-end": {
+          "value": "{ogds.space.column.ant}",
+          "type": "spacing"
+        },
+        "padding-inline-start": {
+          "value": "{ogds.space.inline.ant}",
+          "type": "spacing"
+        },
+        "size": {
+          "type": "sizing",
+          "value": "{ogds.icon.functional.size}"
+        }
+      },
+      "message": {
+        "row-gap": {
+          "value": "{ogds.space.column.snail}",
+          "type": "spacing"
+        },
+        "padding-block-end": {
+          "value": "{ogds.space.block.snail}",
+          "type": "spacing"
+        },
+        "padding-block-start": {
+          "value": "{ogds.space.block.beetle}",
+          "type": "spacing"
+        }
+      },
+      "body": {
+        "font-size": {
+          "value": "{ogds.typography.font-size.body-s}",
+          "type": "fontSizes"
+        }
+      }
+    },
+    "spotlight": {
+      "color": {
+        "value": "{ogds.color.primary-color}",
+        "type": "color",
+        "secundary": {
+          "value": "{ogds.color.secondary-color}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "tokenSetOrder": [
+    "brand",
+    "common",
+    "components/alert",
+    "components/accordeon",
+    "components/breadcrumb",
+    "components/button",
+    "components/datetime",
+    "components/follow-up",
+    "components/heading",
+    "components/highlight-menu",
+    "components/link",
+    "components/ordered-list",
+    "components/page-card-menu",
+    "components/page-footer",
+    "components/page-header",
+    "components/paragraph",
+    "components/spotlight",
+    "components/step-by-step-plan",
+    "components/social-share",
+    "components/tag",
+    "components/text-input",
+    "components/toplinks",
+    "components/toptasks",
+    "components/unordered-list"
+  ]
+}

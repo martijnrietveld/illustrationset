@@ -1,0 +1,46 @@
+{
+  "ogds": {
+    "step-by-step-plan": {
+      "padding-block": {
+        "value": "{ogds.space.block.ant}",
+        "type": "spacing"
+      },
+      "padding-block-end": {
+        "value": "{ogds.space.block.mouse}",
+        "type": "spacing"
+      },
+      "font-family": {
+        "value": "{ogds.typography.font-family.primary}",
+        "type": "fontFamilies"
+      },
+      "heading": {
+        "font-size": {
+          "value": "{ogds.heading-3.font-size}",
+          "type": "fontSizes"
+        },
+        "large-container": {
+          "font-size": {
+            "value": "{ogds.heading-3.large-container.font-size}",
+            "type": "fontSizes"
+          }
+        }
+      },
+      "body": {
+        "font-size": {
+          "value": "{ogds.paragraph.font-size}",
+          "type": "fontSizes"
+        },
+        "large-container": {
+          "font-size": {
+            "value": "{ogds.paragraph.large-container.font-size}",
+            "type": "fontSizes"
+          }
+        }
+      },
+      "bullet": {
+        "value": "{ogds.color.secondary-color}",
+        "type": "color"
+      }
+    }
+  }
+}

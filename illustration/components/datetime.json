@@ -1,0 +1,20 @@
+{
+  "ogds": {
+    "datetime": {
+      "column-gap": {
+        "value": "{ogds.space.block.ant}",
+        "type": "spacing"
+      },
+      "font-weight": {
+        "value": "{ogds.typography.font-weight.bold}",
+        "type": "fontWeights"
+      }
+    },
+    "step-by-step-plan": {
+      "font-size": {
+        "value": "{ogds.typography.font-size.small-l}",
+        "type": "fontSizes"
+      }
+    }
+  }
+}

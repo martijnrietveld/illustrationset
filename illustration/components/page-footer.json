@@ -1,0 +1,12 @@
+{
+  "og": {
+    "footer": {
+      "background": {
+        "color": {
+          "value": "{ogds.color.primary-color}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

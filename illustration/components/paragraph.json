@@ -1,0 +1,88 @@
+{
+  "ogds": {
+    "paragraph": {
+      "color": {
+        "type": "color",
+        "value": "{ogds.text.color}"
+      },
+      "font-weight": {
+        "value": "{ogds.document.font-weight}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "{ogds.document.line-height}",
+        "type": "lineHeights"
+      },
+      "font-family": {
+        "value": "{ogds.document.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-size": {
+        "value": "{ogds.typography.font-size.body-s}",
+        "type": "fontSizes"
+      },
+      "large-container": {
+        "font-size": {
+          "value": "{ogds.typography.font-size.body-l}",
+          "type": "fontSizes"
+        }
+      }
+    },
+    "paragraph-lead": {
+      "color": {
+        "type": "color",
+        "value": "{ogds.text.color}"
+      },
+      "font-weight": {
+        "value": "{ogds.document.font-weight}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "{ogds.document.line-height}",
+        "type": "lineHeights"
+      },
+      "font-family": {
+        "value": "{ogds.document.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-size": {
+        "value": "{ogds.typography.font-size.h3-s}",
+        "type": "fontSizes"
+      },
+      "large-container": {
+        "font-size": {
+          "value": "{ogds.typography.font-size.h3-l}",
+          "type": "fontSizes"
+        }
+      }
+    },
+    "paragraph-small-print": {
+      "color": {
+        "type": "color",
+        "value": "{ogds.text.color}"
+      },
+      "font-weight": {
+        "value": "{ogds.document.font-weight}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "{ogds.document.line-height}",
+        "type": "lineHeights"
+      },
+      "font-family": {
+        "value": "{ogds.document.font-family}",
+        "type": "fontFamilies"
+      },
+      "large-container": {
+        "font-size": {
+          "value": "{ogds.typography.font-size.label-l}",
+          "type": "fontSizes"
+        }
+      },
+      "font-size": {
+        "value": "{ogds.typography.font-size.label-s}",
+        "type": "fontSizes"
+      }
+    }
+  }
+}
