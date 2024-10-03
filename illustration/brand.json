@@ -206,5 +206,51 @@
         }
       }
     }
+  },
+  "ill": {
+    "color": {
+      "primary": {
+        "color": {
+          "value": "#44772C",
+          "type": "color"
+        },
+        "light": {
+          "value": "#76AF2C",
+          "type": "color"
+        }
+      },
+      "green-100": {
+        "value": "#44772C",
+        "type": "color"
+      },
+      "green-60": {
+        "value": "#76AF2C",
+        "type": "color"
+      },
+      "green-30": {
+        "value": "#A1BB95",
+        "type": "color"
+      },
+      "brown-60": {
+        "value": "#C69E77",
+        "type": "color"
+      },
+      "brown-40": {
+        "value": "#E9BB91",
+        "type": "color"
+      },
+      "blue-100": {
+        "value": "#005271",
+        "type": "color"
+      },
+      "blue-60": {
+        "value": "#6EA5DF",
+        "type": "color"
+      },
+      "blue-50": {
+        "value": "#8FB6D9",
+        "type": "color"
+      }
+    }
   }
 }
