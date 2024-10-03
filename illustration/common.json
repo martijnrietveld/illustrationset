@@ -66,13 +66,13 @@
     },
     "container": {
       "border-width": {
-        "value": "{ogds.border-width.sm}",
+        "value": "{ogds.border-width.line}",
         "type": "borderWidth"
       }
     },
     "line": {
       "border-width": {
-        "value": "{ogds.border-width.sm}",
+        "value": "{ogds.border-width.line}",
         "type": "borderWidth"
       }
     },
@@ -84,7 +84,7 @@
     },
     "form-control": {
       "border-width": {
-        "value": "{ogds.border-width.sm}",
+        "value": "{ogds.border-width.line}",
         "type": "borderWidth"
       },
       "active": {
