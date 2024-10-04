@@ -75,11 +75,11 @@
         "value": "#F1B378",
         "type": "color"
       },
-      "yellow-50": {
+      "yellow-100": {
         "value": "#FBAD18",
         "type": "color"
       },
-      "yellow-50-copy": {
+      "yellow-50": {
         "value": "#FBD89D",
         "type": "color"
       },
@@ -118,16 +118,12 @@
       "white": {
         "value": "#ffffff",
         "type": "color"
-      }
-    },
-    "high-contrast": {
-      "color": {
+      },
+      "high-contrast": {
         "value": "#005271",
         "type": "color"
-      }
-    },
-    "container": {
-      "color": {
+      },
+      "container": {
         "value": "#ffffff",
         "type": "color"
       }
