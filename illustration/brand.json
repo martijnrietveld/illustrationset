@@ -1,12 +1,4 @@
 {
-  "ogds": {
-    "border-width": {
-      "line": {
-        "value": "1px",
-        "type": "borderWidth"
-      }
-    }
-  },
   "ill": {
     "color": {
       "primary": {
@@ -174,6 +166,19 @@
           "value": "#ffffff",
           "type": "color"
         }
+      }
+    },
+    "border": {
+      "value": {
+        "color": "{ill.color.high-contrast.100}",
+        "width": "{ill.border-width.line}"
+      },
+      "type": "border"
+    },
+    "border-width": {
+      "line": {
+        "value": "2",
+        "type": "borderWidth"
       }
     }
   }
