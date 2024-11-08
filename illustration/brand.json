@@ -1,5 +1,5 @@
 {
-  "ill": {
+  "og": {
     "color": {
       "primary": {
         "60": {
@@ -170,8 +170,8 @@
     },
     "border": {
       "value": {
-        "color": "{ill.color.high-contrast.100}",
-        "width": "{ill.border-width.line}"
+        "color": "{og.color.high-contrast.100}",
+        "width": "{og.border-width.line}"
       },
       "type": "border"
     },
