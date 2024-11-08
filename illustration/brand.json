@@ -3,11 +3,11 @@
     "color": {
       "primary": {
         "60": {
-          "value": "#76AF2C",
+          "value": "#0FA995",
           "type": "color"
         },
         "100": {
-          "value": "#44772C",
+          "value": "#076C5E",
           "type": "color"
         }
       },
