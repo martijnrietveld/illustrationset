@@ -1,5 +1,5 @@
 {
-  "og": {
+  "Lenteveld": {
     "og": {
       "color": {
         "primary": {
@@ -187,7 +187,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "og"
+      "Lenteveld"
     ]
   }
 }
