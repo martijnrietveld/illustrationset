@@ -4,11 +4,11 @@
       "color": {
         "primary": {
           "60": {
-            "value": "#ff00e9",
+            "value": "#76AF2C",
             "type": "color"
           },
           "100": {
-            "value": "#44772C",
+            "value": "#4C8434",
             "type": "color"
           }
         },
@@ -22,7 +22,7 @@
             "type": "color"
           },
           "100": {
-            "value": "#44772C",
+            "value": "#4C8434",
             "type": "color"
           }
         },
@@ -164,7 +164,7 @@
         },
         "container": {
           "100": {
-            "value": "#ffffff",
+            "value": "#FCF4C0",
             "type": "color"
           }
         }
